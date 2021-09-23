@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Task2KtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-23T18:21:14" hostname="LAPTOP-NH1A3JQV" time="0.015">
+<testsuite name="Task2KtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-23T18:42:39" hostname="LAPTOP-NH1A3JQV" time="0.018">
   <properties/>
-  <testcase name="commisionIs_shouldNotAddDiscount" classname="Task2KtTest" time="0.015"/>
+  <testcase name="commisionIs_shouldNotAddDiscount" classname="Task2KtTest" time="0.018"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
