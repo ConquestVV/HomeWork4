@@ -66,7 +66,7 @@ class Task2KtTest {
 
         )
 
-        assertEquals(0.0, result, 0.001)
+        assertEquals(0.0075, result, 0.001)
     }
 
     @Test
